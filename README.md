@@ -1,5 +1,6 @@
 # demo-repo
 test github
-test edited
+
+Added from Github
 
 This line is added from Eclipse :)
