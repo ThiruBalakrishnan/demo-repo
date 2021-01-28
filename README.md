@@ -1,11 +1,4 @@
-# demo-repo
-test github
+# Test 
 
-Added from Github
-Added from Github2
+Test1 from GitHub
 
-This line is added from Eclipse :)
-
-This line added by feature1 branch from Eclipse :)
-
-New edit from GitHub
