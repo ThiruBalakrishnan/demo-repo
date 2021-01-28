@@ -6,4 +6,4 @@ Added from Github2
 
 This line is added from Eclipse :)
 
-add from branch1 test ::))
+add from branch1 test
